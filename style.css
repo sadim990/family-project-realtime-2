@@ -1,0 +1,36 @@
+.heading{
+    width: 100%;
+    margin: 0px;
+    font-size: 23px;
+    box-shadow: 5x 5px 5px grey;
+}
+
+.heading_div{
+    float: none;
+    background-color: blue;
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.footer_right_tag{
+    box-shadow: 5px 5px 5p grey;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    line-height: 3;
+    text-align: center;
+    background-color: grey;
+}
+
+.heading_div_2{
+    float: none;
+    background-color: blue;
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 5px 5px 5px grey;
+}
+
